@@ -1,5 +1,5 @@
 # IBM-Project-42319-1660659538
-News Tracker Application
+# News Tracker Application
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
@@ -9,7 +9,7 @@ News Tracker Application
 |         **Domain**        |  Cloud App Development |
 
 
-# Team Members :
+## Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
 | Team Leader   |    **PRABHURAM SS**   |
@@ -30,11 +30,11 @@ As our lives are very busy these days, we often feel we need more than 24 hrs. a
 
 ## Project Workflow :
 
- - The user interacts with the application.
+ * The user interacts with the application.
 
- - Registers by giving the details.
+ * Registers by giving the details.
 
- - Integrate the application with news APIs and store the data in the database.
+ * Integrate the application with news APIs and store the data in the database.
 
- - The database will have all the details and the user can search the news by using a search bar.
+ * The database will have all the details and the user can search the news by using a search bar.
  
