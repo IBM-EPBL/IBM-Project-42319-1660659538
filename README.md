@@ -12,7 +12,7 @@
 ## Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   |    **PRABHURAM SS**   |
+| Team Leader   |    [PRABHURAM SS](https://github.com/Prabhuram28)   |
 | Team Member 1 |   [AISHVARYA C](https://github.com/aishvarya-111)  |
 | Team Member 2 |  [KOUSHIK S G](https://github.com/KruzerKnight)  |
 | Team Member 3 | [SHOBIKA V](https://github.com/ShobikaV) |
