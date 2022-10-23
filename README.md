@@ -14,8 +14,8 @@
 |:-----------:|:-----------------:|
 | Team Leader   |    **PRABHURAM SS**   |
 | Team Member 1 |   [AISHVARYA C](https://github.com/aishvarya-111)  |
-| Team Member 2 |  **KOUSHIK S G**  |
-| Team Member 3 | **SHOBIKA V** |
+| Team Member 2 |  [KOUSHIK S G](https://github.com/KruzerKnight)  |
+| Team Member 3 | [SHOBIKA V](https://github.com/ShobikaV) |
 
 ## Tech Stacks used:
  ![Tux, the Linux mascot](https://img.icons8.com/color/48/40C057/html-5--v1.png)   ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/css3.png) ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/javascript.png) ![Tux, the Linux mascot]( https://img.icons8.com/color/48/000000/kubernetes.png) ![Tux, the Linux mascot](https://img.icons8.com/color/48/000000/docker.png)  ![Tux, the Linux mascot](https://img.icons8.com/fluency/48/000000/python.png)  ![Tux, the Linux mascot]( https://img.icons8.com/ios-filled/50/000000/flask.png) ![Tux, the Linux mascot](https://img.icons8.com/nolan/64/ibm.png)
