@@ -13,7 +13,7 @@
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
 | Team Leader   |    **PRABHURAM SS**   |
-| Team Member 1 |   **AISHVARYA C**  |
+| Team Member 1 |   [AISHVARYA C](https://github.com/aishvarya-111)  |
 | Team Member 2 |  **KOUSHIK S G**  |
 | Team Member 3 | **SHOBIKA V** |
 
