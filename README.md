@@ -3,9 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-|      **Project Name**     | News Tracker Application |
-|:---------------------:|:------------------------------:|
 |        **Team ID**        |  PNT2022TMID43386 |
+|:---------------------:|:------------------------------:|
 |         **Domain**        |  Cloud App Development |
 
 
