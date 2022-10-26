@@ -1,0 +1,337 @@
+.bgt{
+    background: black;
+}
+.nav-item{
+    padding-right: 2px;
+}
+.navi{
+  position: fixed;
+}
+
+/*-----------------------------------------------------
+                    Home Section
+-----------------------------------------------------*/
+
+
+#home{
+    background: url("img/M3.jpg");
+    background-size:cover ;
+    height: 100vh;
+    position: relative;
+}
+#home .home-class{
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#home h1{
+    font-size: 80px;
+    font-weight: 1000;
+    font-family:"Magneto", serif;
+    color: whitesmoke;
+}
+#home h2{
+    font-size: 25px;
+    font-family:"Yu Gothic Light", serif;
+    color: whitesmoke;
+}
+#home .btn-scroll{
+    margin-top: 10px;
+    color: #a1bac2;
+    animation: up-down 0.8s ease-in-out alternate-reverse both infinite;
+}
+
+@keyframes up-down{
+    0%{transform: translatey(10px);}
+    100%{transform: translatey(-10px);}
+}
+
+@keyframes fadein {
+    0%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+#home{
+    animation: fadein ease 3s;
+    animation-fill-mode: ;
+}
+
+/*-----------------------------------------------------
+                    Academics Section
+-----------------------------------------------------*/
+#academics{
+    background-color:#111 ;
+}
+
+
+
+#academics{
+    
+    background-size: cover;
+    
+}
+
+#academics h1{
+  padding-top: 25px;
+  text-align: center;
+  color: ghostwhite;
+}
+
+#academics h3{
+    font-size:15px;
+}
+
+.incon{
+  margin: 25px;
+  padding-top: 7px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  width: 85%;
+
+}
+.tl{
+  border-left: solid 5px whitesmoke;
+}
+
+.y3{animation: fadey3 ease 3s;}
+@keyframes fadey3 {
+    0%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+.y2{animation: fadey2 ease 6.5s;}
+@keyframes fadey2 {
+    0%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+.y1{animation: fadey1 ease 10s;}
+@keyframes fadey1 {
+    0%{ opacity: 0; }
+    100%{ opacity: 1; }
+}
+
+
+/*--------------------------------------------------------
+                    Projects Section
+--------------------------------------------------------*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+#projects{
+    
+    padding-bottom: 5px;
+
+}
+#projects h1{
+    margin-top: 30px;
+}
+
+.box {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px
+}
+
+.proj {
+    margin-top: 75px;
+    padding-bottom: 30px;
+    padding: 0 60px;
+    min-height: 198px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #fff;
+    transition: all .4s ease-in-out;
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17)
+}
+
+.proj .icon {
+    margin-bottom: -21px;
+    transform: translateY(-50%);
+    text-align: center;
+    height: 20;
+}
+
+.proj:hover h4,.proj:hover p {
+    color: #fff
+}
+
+.P1:hover{
+    box-shadow: 0 0 25px 0 rgba(20, 27, 201, .05);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #fc6a0e 0%, #fdb642 100%)
+}
+
+.P2:hover {
+    box-shadow: 0 0 25px 0 rgba(20, 27, 201, .05);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #34b5bf 0%, #210c59 100%)
+}
+
+
+.P3:hover {
+    box-shadow: 0 0 25px 0 rgba(20, 27, 201, .05);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg, #27b88d 0%, #22dd73 100%)
+}
+#present{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.car{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17)
+}
+
+.car .icon {
+    margin-bottom: -21px;
+    transform: translateY(-50%);
+    text-align: center;
+    height: 20;
+}
+
+.carousel-inner{
+    height: 45vh;
+}
+.carousel-caption{
+    top: 50%;
+    margin-bottom:;
+}
+.carousel-item h2{
+    font-size: 35px;
+    color: black;
+    margin-bottom: 35px;
+}
+.carousel-item p{
+    color: black;
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+/*--------------------------------------------------------
+                    Skills Section
+--------------------------------------------------------*/
+#skills h1{
+  padding-top: 25px;
+  text-align: center;
+  color: white;
+}
+#skills{
+    height: 100vh;
+    color:white;
+    background: #111;
+}
+.skill{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6%;
+    margin-bottom: 6%;
+
+}
+
+@keyframes tada {
+   0% {transform: scale(1);} 
+   10%, 20% {transform: scale(0.9) rotate(-3deg);} 
+   30%, 50%, 70%, 90% {transform: scale(1.1) rotate(3deg);} 
+   40%, 60%, 80% {transform: scale(1.1) rotate(-3deg);} 
+   100% {transform: scale(1) rotate(0);} 
+} 
+
+#skills:hover img,#skills:hover h2{
+    animation: tada ease 3s;
+    animation-fill-mode: ;
+}
+
+
+
+/*--------------------------------------------------------
+                   Experience Section
+--------------------------------------------------------*/
+#experience{
+    padding-top: 25px;
+    margin-left: 4%;
+    text-align: center;
+}
+
+.exp{
+    margin-top: 4%;
+    border-radius: 10px;
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17);
+    padding-bottom: 15px;
+}
+.exp h2{padding-top: 2%;
+    
+}
+.exp p{padding-bottom: 2%;
+}
+
+/*--------------------------------------------------------
+                    Contact Section
+--------------------------------------------------------*/
+#contact{
+    
+    background-color: white;
+    padding-top: 25px;
+    text-align: center;
+    
+}
+
+#contact h1{
+    margin-top: 2%;
+    margin-bottom:3%;
+}
+#contact .social{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    margin-top: 10px;   
+}
+#contact .icon{
+    justify-content: center;
+}
+#contact .icon a{
+    padding: 8px;
+}
+#contact .icon .main{
+    justify-content: center;
+    flex-direction: column;
+}
+
+#contacts {
+    padding-top: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17);
+}
+#footslider{
+    margin-left: 5%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 25px 0 rgba(20, 27, 202, .17);
+
+}
+
+#footslider h2{
+    margin-top: 30%;
+    margin-bottom: 0;
+}
+
