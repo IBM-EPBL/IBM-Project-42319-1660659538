@@ -1,5 +1,14 @@
 # flask-with-ibm-cloud-object-storage
 
+Create a `.env` file and type down the important credentials for IBM Bucket.
+
+It would look like this:
+
+```python
+COS_ENDPOINT="https://s3.jp-tok.cloud-object-storage.appdomain.cloud/"
+COS_API_KEY_ID="5438b65746574-i46b436464CT_gnuveye54874-7"
+COS_INSTANCE_CRN="crn:v1:bluemix:public:cloud-object-storage:global:a/7b487h46464w8765bv756nmh386535:c22fe22d-22c4-4cc1-a2db-b54b37f43::"
+```
 Working with IBM Cloud Storage 
 
 Step 1 : install Python SDK for Cloud Object Storage
