@@ -36,6 +36,3 @@ As our lives are very busy these days, we often feel we need more than 24 hrs. a
  * Integrate the application with news APIs and store the data in the database.
 
  * The database will have all the details and the user can search the news by using a search bar.
-
-Demo : https://drive.google.com/file/d/1fSAPKE2P-xd6inZdVHxT10ZNhTk3N91f/view?usp=sharing
- 
